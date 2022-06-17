@@ -1,0 +1,14 @@
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\bin\Release\ImageProcessingApp.exe.config
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\bin\Release\ImageProcessingApp.exe
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\bin\Release\ImageProcessingApp.pdb
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\bin\Release\Emgu.CV.dll
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\bin\Release\Emgu.CV.UI.dll
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\bin\Release\Emgu.Util.dll
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.Form1.resources
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.Properties.Resources.resources
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.csproj.GenerateResource.cache
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.csproj.CopyComplete
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.exe
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.pdb
+C:\Users\Alp Eren\source\repos\ImageProcessingApp\ImageProcessingApp\obj\Release\ImageProcessingApp.csproj.AssemblyReference.cache
