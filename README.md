@@ -27,9 +27,9 @@ You can apply image processing methods to the input image.
 
 <u>**Image Rotation**</u>
 
-- Rotate 90&deg
-- Rotate -90&deg
-- Rotate 180&deg
+- Rotate 90&deg;
+- Rotate -90&deg;
+- Rotate 180&deg;
 - Rotate Arbitrary
 - Flip Vertical
 - Flip Horizontal
